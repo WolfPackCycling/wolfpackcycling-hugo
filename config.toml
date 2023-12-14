@@ -23,8 +23,8 @@ disableKinds = ["taxonomy", "term"]
     # actual links here (keep defaults below, commented out)
 
     { strava = { href = "https://www.strava.com/clubs/4183/discussion?num_entries=10", text = "Strava" } },
-    { instagram = "https://instagram.com/username" },
-    { facebook = "https://facebook.com/username" },
+    { instagram = "https://www.instagram.com/wolfpackcycling.sandiego/" },
+    { facebook = "https://www.facebook.com/wolfpackcycling" },
     { twitter = "https://twitter.com/WolfPack_WPC" },
 
     # { email = "mailto:hello@your_domain.com" },
